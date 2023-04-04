@@ -4,7 +4,7 @@
 
 #UML
 
-![uml] (https://github.com/graduation-thesis-app/graduation_thesis/blob/main/uml/main.png)
+![png] (https://raw.githubusercontent.com/graduation-thesis-app/graduation_thesis/main/uml/main.png)
 
 #Demo
 
